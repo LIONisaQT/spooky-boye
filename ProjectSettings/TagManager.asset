@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Speaker
+  - Radial Light
+  - Cone Light
+  - Switch
+  - Button
+  - Directional Light
+  - Robot
+  - Distraction
+  - Gameover
   layers:
   - Default
   - TransparentFX
@@ -13,12 +22,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Obstacles
+  - LightSources
+  - LightObstacles
+  - AmbientLight
+  - Target
   - 
   - 
   - 
